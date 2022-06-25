@@ -1,5 +1,6 @@
 # Animal-Trading
 this is an Add-On for Minecraft Bedrock edition
+please note that the Add-On is old so i didnt know yet how to program if you want me to update the code tell me
 
 # Add-On idea
 this is a normal minecraft BUT you can trade with any entity
