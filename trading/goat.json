@@ -1,0 +1,21 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": 3
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:milk_bucket"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald"
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:diamond_sword"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item": "minecraft:emerald"
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:diamond_axe"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item": "minecraft:emerald"
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:diamond_pickaxe"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item": "minecraft:emerald"
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:diamond_shovel"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item": "minecraft:emerald"
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:diamond_hoe"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item": "minecraft:emerald"
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:diamond_helmet"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item": "minecraft:emerald"
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:diamond_chestplate"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item": "minecraft:emerald"
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:diamond_leggings"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item": "minecraft:emerald"
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:diamond_boots"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

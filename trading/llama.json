@@ -1,0 +1,120 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 3,
+                "max": 5
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:leather",
+              "quantity": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+
+
+
+        {
+          "wants": [
+            {
+              "item": "minecraft:hay_block",
+              "quantity": {
+                "min": 3,
+                "max": 6
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 36,
+                "max": 72
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "trades":[
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 8,
+                "max": 13
+              }
+              
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:leather_boots"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 10,
+                "max": 15
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:leather_helmet"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 20,
+                "max": 25
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:leather_chestplate"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 18,
+                "max": 23
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:leather_leggings"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

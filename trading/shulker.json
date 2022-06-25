@@ -1,0 +1,29 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 5,
+                "max": 10
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:shulker_box",
+              "functions": [
+                {
+                  "function": "minecraft:set_data_from_color_index"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

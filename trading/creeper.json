@@ -1,0 +1,69 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 5,
+                "max": 8
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:gunpowder",
+              "quantity": {
+                "min": 4,
+                "max": 10
+              }
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 10,
+                "max": 15
+              }
+            },
+            {
+              "item":"minecraft:sand",
+              "quantity": 8
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:tnt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "trades":[
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min":48,
+                "max":64
+              }
+              
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:creeper_spawn_egg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

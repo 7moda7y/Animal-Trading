@@ -1,0 +1,44 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:ice"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:fish",
+              "quantity":{
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 5,
+                "max": 7
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

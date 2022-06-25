@@ -1,0 +1,70 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 3,
+                "max": 7
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:bow",
+              "functions": [
+                {
+                  "function": "enchant_with_levels",
+                  "treasure": false,
+                  "levels": {
+                    "min": 5,
+                    "max": 19
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald"
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:arrow",
+              "quantity":{
+                "min":16,
+                "max":32
+              }
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min":3,
+                "max":6
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:bone",
+              "quantity":{
+                "min":5,
+                "max":10
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

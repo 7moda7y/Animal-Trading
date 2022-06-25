@@ -1,0 +1,158 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:cooked_porkchop",
+              "quantity":{
+                "min":6,
+                "max":12
+              }
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 3,
+                "max": 5
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:leather",
+              "quantity":{
+                "min":1,
+                "max":5
+              }
+
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "trades":[
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 10,
+                "max": 15
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:leather_helmet",
+              "functions": [
+                {
+                  "function": "enchant_with_levels",
+                  "treasure": false,
+                  "levels": {
+                    "min": 5,
+                    "max": 19
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 20,
+                "max": 25
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:leather_chestplate",
+              "functions": [
+                {
+                  "function": "enchant_with_levels",
+                  "treasure": false,
+                  "levels": {
+                    "min": 5,
+                    "max": 19
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 18,
+                "max": 23
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:leather_leggings",
+              "functions": [
+                {
+                  "function": "enchant_with_levels",
+                  "treasure": false,
+                  "levels": {
+                    "min": 5,
+                    "max": 19
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 8,
+                "max": 13
+              }
+              
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:leather_boots",
+              "functions": [
+                {
+                  "function": "enchant_with_levels",
+                  "treasure": false,
+                  "levels": {
+                    "min": 5,
+                    "max": 19
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

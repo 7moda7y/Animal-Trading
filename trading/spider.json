@@ -1,0 +1,69 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:string",
+              "quantity": {
+                "min": 10,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 10,
+                "max": 15
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:spider_eye",
+              "quantity":{
+                "min":1,
+                "max":5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "trades":[
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min":48,
+                "max":64
+              }
+              
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:spider_spawn_egg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

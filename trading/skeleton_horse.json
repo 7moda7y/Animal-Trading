@@ -1,0 +1,28 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min":3,
+                "max":6
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:bone",
+              "quantity":{
+                "min":5,
+                "max":10
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

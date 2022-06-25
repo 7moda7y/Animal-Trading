@@ -1,0 +1,49 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 10,
+                "max": 30
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:ender_pearl",
+              "quantity": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+          
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 1,
+                "max": 4
+              }
+            },
+            {
+              "item":"minecraft:blaze_rod"
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:ender_eye",
+              "quantity": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 10,
+                "max": 32
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:potion:29"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 12,
+                "max": 24
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:axolotl_bucket"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

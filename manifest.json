@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+      "description": "this is minecraft BUT you can trade with any animal By 7moda7y",
+      "name": "Animal-trading",
+      "uuid": "35ff2750-df2e-4714-9df8-50c1d62d510e",
+      "version": [ 1, 0, 0 ],
+      "min_engine_version": [ 1, 17, 0 ]
+  },
+  "modules": [
+      {
+          "type": "data",
+          "uuid": "6f35cd21-21b3-44fb-9014-f424fc4811c9",
+          "version": [1, 0, 0]
+      }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants":[
+            {
+              "item":"minecraft:carrot",
+              "quantity":{
+                "min":4,
+                "max":8
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min":4,
+                "max":8
+              }
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:emerald",
+              "quantity": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:cooked_rabbit"
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:rabbit_hide",
+              "quantity":{
+                "min":5,
+                "max":10
+              }
+            }
+          ]
+        },
+        {
+          "wants":[
+            {
+              "item":"minecraft:emerald",
+              "quantity":{
+                "min":10,
+                "max":12
+              }
+            }
+          ],
+          "gives":[
+            {
+              "item":"minecraft:rabbit_foot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
